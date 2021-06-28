@@ -1,26 +1,23 @@
 {
-   "Ads":[
-      {
-         "app_id":"ca-app-pub-3940256099942544~3347511711",
-         "banner_id":"ca-app-pub-3940256099942544/6300978112",
-         "interstitial_id":"ca-app-pub-3940256099942544/1033173713",
-         "native_id":"ca-app-pub-3940256099942544/2247696114",
-         "qureka_ads":"https://282.win.qureka.com/",
-         "status":"true",
-         "splash_ads":"false"
-      },
-      {
-         "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "banner_id":"1646519469037726_1646519719037701",
-         "interstitial_id":"1646519469037726_1648140192208987",
-          "interstitial_id1":"1646519469037726_1648140072208999",
-          "interstitial_id2":"1646519469037726_1648140322208974",
-         "native_id":"1646519469037726_1648140095542330",
-         "native_banner_id":"1646519469037726_1648140265542313",
-         "rectangle_banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "status":"true",
-         "splash_ads":"false"
-         
-}
-   ]
+   "app_redirectOtherAppStatus":"0",
+   "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
+   "app_AppOpenAdStatus":"0",
+   "app_dialogBeforeAdShow":"0",
+   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
+   "app_howShowAd":"0",
+   "qureka":"http://282.win.qureka.com/",
+   "more_app":"https://raw.githubusercontent.com/Cipher-Infotech/mockjson/master/db.json",
+   "admob_showAdStatus":"1",
+   "AppID":"ca-app-pub-5517092987757413~8240781391",
+   "Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
+   "Admob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
+   "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
+   "AppOpen":"ca-app-pub-3940256099942544/3419835294",
+   "fbad_showStatus":"1",
+   "fb_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "fb_inter1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "fb_inter2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "fb_inter3":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "fb_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "fb_nativebanner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 }
